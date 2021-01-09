@@ -11,3 +11,6 @@ To start this app up, follow the steps below:
 1. Run `npm install`
 1. Run `npm start`
 1. In your browser, navigate to `localhost:3000`
+
+## Screenshot
+![pokemon card app screenshot](https://github.com/SpartaSixZero/pokemon-card/blob/main/images/pokemonCardScreenshot.png)
